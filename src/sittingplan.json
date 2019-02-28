@@ -1,0 +1,419 @@
+[
+    {
+        "room": "1111",
+        "people": [
+            {
+                "first name": "Dennis",
+                "last name": "Fischer",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "dfischer"
+            },
+            {
+                "first name": "Frank",
+                "last name": "Supper",
+                "title": "Dr.",
+                "name addition": "von",
+                "ldapuser": "fsupper"
+            },
+            {
+                "first name": "Susanne",
+                "last name": "Moog",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "smoog"
+            }
+        ]
+    },
+    {
+        "room": "1110",
+        "people": [
+            {
+                "first name": "Christina",
+                "last name": "Hülsemann",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "chuelsemann"
+            },
+            {
+                "first name": "Iftikar Ahmad",
+                "last name": "Khan",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "ikhan"
+            },
+            {
+                "first name": "Mabelle",
+                "last name": "Tengue",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "mtengue"
+            },
+            {
+                "first name": "Ralf",
+                "last name": "Schmidt",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "rschmidt"
+            }
+        ]
+    },
+    {
+        "room": "1109",
+        "people": [
+            {
+                "first name": "Stefanie",
+                "last name": "Borcherding",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "sborcherding"
+            },
+            {
+                "first name": "Tobias",
+                "last name": "Hahn",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "thahn"
+            },
+            {
+                "first name": "Dominik",
+                "last name": "Elm",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "delm"
+            }
+        ]
+    },
+    {
+        "room": "1108",
+        "people": [
+            {
+                "first name": "Kai",
+                "last name": "Wesling",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "kwesling"
+            },
+            {
+                "first name": "Thomas",
+                "last name": "Kruse",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "tkruse"
+            }
+        ]
+    },
+    {
+        "room": "1107",
+        "people": [
+            {
+                "first name": "Carsten",
+                "last name": "Schütte",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "cschuette"
+            },
+            {
+                "first name": "Carsten",
+                "last name": "Elfers",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "celfers"
+            },
+            {
+                "first name": "Nicole",
+                "last name": "Dymini",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "ndymini"
+            }
+        ]
+    },
+    {
+        "room": "1106",
+        "people": [
+            {
+                "first name": "Jan",
+                "last name": "Stockfisch",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "jstockfisch"
+            },
+            {
+                "first name": "Denis",
+                "last name": "Sawazky",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "dsawazky"
+            },
+            {
+                "first name": "Simon",
+                "last name": "Bled",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "sbled"
+            }
+        ]
+    },
+    {
+        "room": "1105",
+        "people": [
+            {
+                "first name": "Marina",
+                "last name": "Bortin",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "mbortin"
+            },
+            {
+                "first name": "Svenja",
+                "last name": "Hilken",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "shilken"
+            },
+            {
+                "first name": "Florenz",
+                "last name": "Buhrke",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "fbuhrke"
+            }
+        ]
+    },
+    {
+        "room": "1104",
+        "people": [
+            {
+                "first name": "Sebastian",
+                "last name": "Foot",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "sfoot"
+            },
+            {
+                "first name": "Alexander",
+                "last name": "Häusler",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "ahaeusler"
+            },
+            {
+                "first name": "Renas",
+                "last name": "Sheho",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "rsheho"
+            },
+            {
+                "first name": "Dirk",
+                "last name": "Reuschling",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "dreuschling"
+            }
+        ]
+    },
+    {
+        "room": "1103",
+        "people": [
+            {
+                "first name": "Leif Arne",
+                "last name": "Genzmer",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "lgenzmer"
+            },
+            {
+                "first name": "Samin",
+                "last name": "ölker",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "soelker"
+            }
+        ]
+    },
+    {
+        "room": "1102",
+        "people": []
+    },
+    {
+        "room": "1101",
+        "people": [
+            {
+                "first name": "Markus",
+                "last name": "Nolte",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "mnolte"
+            }
+        ]
+    },
+    {
+        "room": "1113",
+        "people": [
+            {
+                "first name": "Claudia",
+                "last name": "Fleuter",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "cfleuter"
+            },
+            {
+                "first name": "Sabine",
+                "last name": "Strodthoff",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "sstrodthoff"
+            }
+        ]
+    },
+    {
+        "room": "1114",
+        "people": [
+            {
+                "first name": "Malek",
+                "last name": "Olabi",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "molabi"
+            },
+            {
+                "first name": "Alexander James",
+                "last name": "Cole",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "acole"
+            }
+        ]
+    },
+    {
+        "room": "2114",
+        "people": [
+            {
+                "first name": "Daniel",
+                "last name": "Ott",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "dott"
+            },
+            {
+                "first name": "Katharina",
+                "last name": "Tan",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "ktan"
+            },
+            {
+                "first name": "Arne",
+                "last name": "Wagenfeld",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "awagenfeld"
+            },
+            {
+                "first name": "Janina",
+                "last name": "Pinnhammer",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "jpinnhammer"
+            },
+            {
+                "first name": "Janis",
+                "last name": "Hau",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "jhau"
+            },
+            {
+                "first name": "Iaroslav",
+                "last name": "Sheptykin",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "isheptykin"
+            },
+            {
+                "first name": "Ulf",
+                "last name": "Tietze",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "utietze"
+            },
+            {
+                "first name": "Bernhard",
+                "last name": "Leers",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "bkatzmarski"
+            },
+            {
+                "first name": "Julian",
+                "last name": "Nuß",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "jnuss"
+            },
+            {
+                "first name": "Thomas",
+                "last name": "Gostomski",
+                "title": "",
+                "name addition": "von",
+                "ldapuser": "tgostomski"
+            }
+        ]
+    },
+    {
+        "room": "2002",
+        "people": [
+            {
+                "first name": "Janina",
+                "last name": "Thomas",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "jthomas"
+            },
+            {
+                "first name": "Jonas",
+                "last name": "Zimmermann",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "jzimmermann"
+            },
+            {
+                "first name": "Tobias",
+                "last name": "Küttner",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "tkuettner"
+            },
+            {
+                "first name": "Sarah",
+                "last name": "Fröhling",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "sfroehling"
+            },
+            {
+                "first name": "Yvonne",
+                "last name": "Asendorf",
+                "title": "",
+                "name addition": "",
+                "ldapuser": "yasendorf"
+            },
+            {
+                "first name": "Etienne",
+                "last name": "Ruffray",
+                "title": "",
+                "name addition": "de",
+                "ldapuser": "eruffray"
+            },
+            {
+                "first name": "Dennis",
+                "last name": "Krannich",
+                "title": "Dr.",
+                "name addition": "",
+                "ldapuser": "dkrannich"
+            }
+        ]
+    }
+]

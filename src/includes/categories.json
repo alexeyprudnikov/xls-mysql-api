@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Start-ups",
+    "children": [
+      {
+        "title": "Start-up"
+      }
+    ]
+  },
+  {
+    "title": "Creative Industries",
+    "children": [
+      {
+        "title": "Film & TV"
+      },
+      {
+        "title": "Journalism & MediaTech"
+      },
+      {
+        "title": "Music & Music Industry"
+      },
+      {
+        "title": "Music Tech & Creative Tech"
+      },
+      {
+        "title": "Immersive Media"
+      }
+    ]
+  },
+  {
+    "title": "Social Impact",
+    "children": [
+      {
+        "title": "Future Workplace"
+      },
+      {
+        "title": "Social & Global Impact"
+      },
+      {
+        "title": "Sustainability"
+      },
+      {
+        "title": "Public Institution"
+      }
+    ]
+  },
+  {
+    "title": "New Technology",
+    "children": [
+      {
+        "title": "Health & MedTech"
+      },
+      {
+        "title": "Industry 4.0"
+      },
+      {
+        "title": "Mobility"
+      },
+      {
+        "title": "New Technologies"
+      },
+      {
+        "title": "Research & Development"
+      },
+      {
+        "title": "Smart Cities"
+      }
+    ]
+  }
+]
