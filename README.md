@@ -1,4 +1,4 @@
-# xls Reader/parser/Importer
+# XLS Reader/parser/Importer
 
 ## Symfony 4 + Doctrine
 
