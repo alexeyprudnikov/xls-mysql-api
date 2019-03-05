@@ -1,7 +1,5 @@
 # XLS Reader/Parser/Importer
 
-## Symfony 4 + Doctrine
-
 ### Import aus XLS Datei
 
 ```
