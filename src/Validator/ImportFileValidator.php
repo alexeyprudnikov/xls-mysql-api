@@ -15,8 +15,11 @@ class ImportFileValidator implements ValidatorInterface
 {
     public function validate($value): void
     {
-        if(!($value instanceof UploadedFile) && $value->getSize() === 0) {
-            throw new \RuntimeException('false');
+        if(!($value instanceof UploadedFile)) {
+            throw new \RuntimeException('false type');
+        }
+        if($value->getSize() === 0) {
+            throw new \RuntimeException('null size');
         }
     }
 }
